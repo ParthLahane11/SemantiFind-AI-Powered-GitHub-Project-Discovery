@@ -24,6 +24,7 @@ Each project includes name, description, domain, language, and popularity indica
 graphql
 Copy
 Edit
+
 SemantiFind/
 ├── app.py                    # Flask app entrypoint
 ├── embedding_projects.py     # Embeds projects using SentenceTransformer
