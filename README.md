@@ -33,6 +33,7 @@ SemantiFind/
 ├── project_embeddings.parquet        # Output embeddings
 ├── faiss_index.index         # Serialized FAISS index
 └── README.md
+
 🛠️ Setup Instructions
 1. Clone the Repository
 bash
