@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+torch
+spacy
+word2number
+tqdm
